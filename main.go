@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/TylerKingsley/pokedexcli/internal/pokeapi"
+	"github.com/tylerrobins/pokedexcli/internal/pokeapi"
 )
 
 type config struct {
